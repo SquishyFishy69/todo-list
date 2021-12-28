@@ -262,9 +262,14 @@ html, body {
         padding: 0;
     }
 
+    .projectInput {
+        margin-left: 5px!important;
+    }
+
     #projectName {
         font-size: 12px;
         width: 80px;
+        padding: 5px;
         margin: 5px 0;
     }
 
