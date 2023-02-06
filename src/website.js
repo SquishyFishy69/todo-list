@@ -17,7 +17,7 @@ function createHeader() {
 function createFooter() {
   const footer = document.createElement("div");
   footer.classList.add("footer");
-  footer.textContent = "Made by SquishyFishy69 © 2021";
+  footer.textContent = "Made by Shaun Sze © 2021";
 
   return footer;
 }
